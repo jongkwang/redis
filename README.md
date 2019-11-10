@@ -1,9 +1,15 @@
 This README is just a fast *quick start* document. You can find more detailed documentation at [redis.io](https://redis.io).
 
-What is Redis?
+What is Redis? - 레디스란?
 --------------
 
+
 Redis is often referred as a *data structures* server. What this means is that Redis provides access to mutable data structures via a set of commands, which are sent using a *server-client* model with TCP sockets and a simple protocol. So different processes can query and modify the same data structures in a shared way.
+
+레디스는 뭐뭐머 입니다.... 인메모리 DB 에요...
+
+
+
 
 Data structures implemented into Redis have a few special properties:
 
